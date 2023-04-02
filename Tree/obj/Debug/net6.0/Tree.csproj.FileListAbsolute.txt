@@ -1,0 +1,15 @@
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\bin\Debug\net6.0\Tree.exe
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\bin\Debug\net6.0\Tree.deps.json
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\bin\Debug\net6.0\Tree.runtimeconfig.json
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\bin\Debug\net6.0\Tree.dll
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\bin\Debug\net6.0\Tree.pdb
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.csproj.AssemblyReference.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.AssemblyInfoInputs.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.AssemblyInfo.cs
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.dll
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\refint\Tree.dll
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.pdb
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\Tree.genruntimeconfig.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\Tree\obj\Debug\net6.0\ref\Tree.dll
